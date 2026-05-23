@@ -1,5 +1,6 @@
 # AI Movie Recommendation System
 
+![Demo Screenshot](./demo_screenshot.png)
 A full-stack, AI-powered movie recommendation system designed to provide personalized movie suggestions. It leverages modern frontend technologies and a robust Python backend with access to TMDB APIs to fetch rich data (movie posters, cast photos, real-time ratings, etc.) and utilizes ML/AI recommendation engines for high-quality suggestions.
 
 ## Features
